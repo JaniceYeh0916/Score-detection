@@ -12,10 +12,10 @@
 3. Switch the folder `cd System`
 4. Open the GUI interface `python main.py`
 5. Select student list & Enter quiz title
-    ![](picture\p1.png)
+    ![](https://github.com/JaniceYeh0916/Score-detection/blob/main/picture/p1.png)
 6. Press the **開始掃描** button
 7. Display results
-    ![](picture\p2.png)
+    ![](https://github.com/JaniceYeh0916/Score-detection/blob/main/picture/p2.png)
 8. Press the **手動輸入** button to add information
 9. Use the checkbox on the left to select the unwanted data
 10. The data is entered into Excel
